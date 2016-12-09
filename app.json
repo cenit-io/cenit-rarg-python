@@ -1,0 +1,8 @@
+{
+  "name": "Cenit-IO Remote Algorithms",
+  "description": "REST service to run Cenit-IO remote algorithms written in Python.",
+  "repository": "https://github.com/cenit-io/cenit-rarg-python",
+  "logo": "http://cenit-rarg-python.herokuapp.com/public/images/python.svg",
+  "keywords": ["cenit-io"],
+  "image": "heroku/python"
+}
