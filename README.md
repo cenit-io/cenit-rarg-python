@@ -1,4 +1,4 @@
-# cenit-rarg-nodejs
+# cenit-rarg-python
 
 REST service to run Cenit-IO remote algorithms written in Python.
 
